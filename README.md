@@ -56,7 +56,7 @@ We provide the specific processing workflow in `predict_demo`:
 
 
 You can also directly use our pre-processed datasets:
-* **Download Link**: [Baidu Netdisk](https://pan.baidu.com/s/1__432kgs0ZN2XfLKvbc50Q)
+* **Download Link**: [Download](https://pan.baidu.com/s/1__432kgs0ZN2XfLKvbc50Q)
 * **Password**: `1v7s`
 
 ---
