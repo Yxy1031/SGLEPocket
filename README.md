@@ -66,7 +66,7 @@ You can also directly use our pre-processed datasets:
 The specific voxelization modeling process can be found in the project data processing section: `Dataset/Protein_Dataset.py`
 
 ### Implementation Details
-We use `libmolgrid` for processing, with the following code configuration:
+We use `libmolgrid` for processing to generate the 65 × 65 × 65 voxel grid, with the following code configuration:
 
 ```python
 self.gmaker_mask = molgrid.GridMaker(dimension=32, binary=True, gaussian_radius_multiple=-1, resolution=0.5)
